@@ -4,7 +4,6 @@
 This app is the pre-work app in order to get approved into the Mobile App Design Workshop. When the app launches, its text shows “Hello”. If the user does not input anything in the text field and tap “Change Text”, the text would change to default string “Goodbye 👋”. If the user inputs something in the text field and tap “Change Text”, the text will update to what user just inputted. When “Change Text Color” tapped, the text will change to a randomly generated color. When “Change View Color” tapped, the background will change to a randomly generated color. 
 
 ### App Walk-though
-https://i.imgur.com/PrLKZNa.gif
 <img src="https://i.imgur.com/PrLKZNa.gif" width=200><br>
 
 ### Required User Stories
